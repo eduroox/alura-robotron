@@ -72,11 +72,11 @@ main {
 }
 
 .montador {
-    height: 100%;;
+    height: 100%;
 }
 
 .montador-conteudo {
-    padding: 2em 10%;
+    padding: 0.5em;
 }
 
 .peca {
